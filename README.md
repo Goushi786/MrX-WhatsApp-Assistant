@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/TURBOHYPER">MrX</a> to make it pu
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Goushi786/MrX-WhatsApp-Assistant/) 
 <br>
         
 1. Click [SCAN](https://replit.com/@generalwebsitex1/MrX-WhatsApp-Assistant?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
@@ -56,7 +56,7 @@ Project created by <a href="https://github.com/TURBOHYPER">MrX</a> to make it pu
 6. Now Deploy Using The Button Below
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/923055108095?text=Need+Help🙂) Here For Contact MrX
+   * Click [Contact](https://wa.me/923081806308?text=Need+Help🙂) Here For Contact MrX
  
 ### The Hard Method
 ```js
